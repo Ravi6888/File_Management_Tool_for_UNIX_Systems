@@ -1,2 +1,3 @@
 # File_Management_Tool_for_UNIX_systems
-c programming,shell scripting
+c programming
+shell scripting
